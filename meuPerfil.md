@@ -1,5 +1,6 @@
 # Meu Perfil
-- Nome: Lucas Lica
-- Curso: 1°AMS
-- Curiosidade sobre mim: Gosto de Azul
+
+- Nome: Lucas
+- Curso: Análise e Desenvolvimento de Sistemas- AMS
+- Curiosidade: Gosto da brisa do mar  e da cor azul
 

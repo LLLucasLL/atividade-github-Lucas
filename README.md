@@ -1,1 +1,1 @@
-# atividade-github-Lucas
+# atividade-github-Lucas > "O sucesso é a soma de pequenos esforços repetidos dia após dia."
